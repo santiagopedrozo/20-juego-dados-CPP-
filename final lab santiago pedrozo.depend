@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1638752249 source:c:\users\santi\desktop\final lab santiago pedrozo\src\funcionesgenerales.cpp
+	"FuncionesGenerales.h"
+	"FuncionesVisuales.h"
+	"rlutil.h"
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
+1638751444 c:\users\santi\desktop\final lab santiago pedrozo\include\funcionesgenerales.h
+
+1571584339 c:\users\santi\desktop\final lab santiago pedrozo\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1638718562 source:c:\users\santi\desktop\final lab santiago pedrozo\main.cpp
+	<iostream>
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	"rlutil.h"
+	"FuncionesVisuales.h"
+	"funcionesGenerales.h"
+	"Modo1jugador.h"
+	"Maximo.h"
+
+1638240836 c:\users\santi\desktop\final lab santiago pedrozo\include\funcionesvisuales.h
+
+1638683474 c:\users\santi\desktop\final lab santiago pedrozo\include\modo1jugador.h
+	"funcionesGenerales.h"
+
+1638240836 source:c:\users\santi\desktop\final lab santiago pedrozo\src\funcionesvisuales.cpp
+	"FuncionesVisuales.h"
+	<iostream>
+	"rlutil.h"
+
+1638752484 source:c:\users\santi\desktop\final lab santiago pedrozo\src\modo1jugador.cpp
+	"Modo1Jugador.h"
+	"FuncionesVisuales.h"
+	<iostream>
+	"rlutil.h"
+
+1638720401 source:c:\users\santi\desktop\final lab santiago pedrozo\src\maximo.cpp
+	"Maximo.h"
+	"rlutil.h"
+	<cstring>
+	<cstdlib>
+	<iostream>
+	"FuncionesVisuales.h"
+
+1638684745 c:\users\santi\desktop\final lab santiago pedrozo\include\maximo.h
+
